@@ -1,1 +1,1 @@
-# deedy-resume-dhivya
+# Deedy-resume-dhivya
