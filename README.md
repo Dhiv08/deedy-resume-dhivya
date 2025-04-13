@@ -15,6 +15,8 @@ This repository contains the LaTeX source code for my professional resume, devel
 5) Overleaf will load the .tex file and compile the PDF automatically.
 
 
+[Deedy_CV__2_.pdf](https://github.com/user-attachments/files/19726636/Deedy_CV__2_.pdf)
+
 
 
 
