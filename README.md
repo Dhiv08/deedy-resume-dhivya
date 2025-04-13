@@ -17,6 +17,9 @@ This repository contains the LaTeX source code for my professional resume, devel
 
 [Deedy_CV__2_.pdf](https://github.com/user-attachments/files/19726636/Deedy_CV__2_.pdf)
 
+![image](https://github.com/user-attachments/assets/a69ad22d-6145-4894-832b-c3cd094977ce)
+
+
 
 
 
